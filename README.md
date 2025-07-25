@@ -1,6 +1,6 @@
 ### 👑 Tech
 
-- 🟠 HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/> HTML  
 - 🔵 CSS  
 - 🟡 JavaScript  
 - 🐍 Python  
