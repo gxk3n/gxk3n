@@ -1,4 +1,11 @@
 ### 👑 Tech
+
+- 🟠 HTML  
+- 🔵 CSS  
+- 🟡 JavaScript  
+- 🐍 Python  
+- 🧰 Git
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="25" height="25"/>
